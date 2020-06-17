@@ -1,0 +1,13 @@
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\bin\Debug\netcoreapp3.1\Aula19Ingresso.exe
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\bin\Debug\netcoreapp3.1\Aula19Ingresso.deps.json
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\bin\Debug\netcoreapp3.1\Aula19Ingresso.runtimeconfig.json
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\bin\Debug\netcoreapp3.1\Aula19Ingresso.runtimeconfig.dev.json
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\bin\Debug\netcoreapp3.1\Aula19Ingresso.dll
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\bin\Debug\netcoreapp3.1\Aula19Ingresso.pdb
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.csprojAssemblyReference.cache
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.csproj.CoreCompileInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.AssemblyInfoInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.AssemblyInfo.cs
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.dll
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.pdb
+C:\Users\kermt\Documents\Projetos\Aula19Ingresso\obj\Debug\netcoreapp3.1\Aula19Ingresso.genruntimeconfig.cache
